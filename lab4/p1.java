@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-class p2
+class p1
 {     
      int sum(int a, int b)
      {
@@ -25,7 +25,7 @@ class p2
      public static void main(String args[])
      {
          Scanner sc = new Scanner(System.in);
-         p2 o2=new p2();
+         p1 o2=new p1();
             
          System.out.println("1.Add");
          System.out.println("2.Sub");
